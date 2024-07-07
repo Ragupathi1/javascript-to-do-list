@@ -176,7 +176,7 @@ class ToDoList {
 }
 
 const toDoList = new ToDoList();
-
+~~~
 ### OUTPUT
 
 ![image](https://github.com/Ragupathi1/javascript-to-do-list/assets/143526042/11da9928-1b88-4262-8b81-a67ae0b25799)
